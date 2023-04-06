@@ -10,4 +10,6 @@ public class Customer {
     private String name;
     private String email;
     private boolean valid;
+    private Integer vipPoints;
+    private String type;
 }
